@@ -2,15 +2,15 @@
 This repository contains a simple and clean implementation of pricing cards created using Tailwind CSS. This project serves as a practice to test and improve my knowledge of Tailwind CSS, focusing on layout, design, and responsiveness.
 
 ## Features
--Responsive Design: The pricing cards are fully responsive and adapt to various screen sizes.
 
--Modern UI: Clean and minimalist design using Tailwind CSS.
-
--Customizable: Easy to tweak and adjust the design.
+- **Responsive Design**: The pricing cards are fully responsive and adapt to various screen sizes.
+- **Modern UI**: Clean and minimalist design using Tailwind CSS.
+- **Customizable**: Easy to tweak and adjust the design.
 
 ## Technologies Used
--HTML: For the structure of the page.
--Tailwind CSS: For styling and layout.
+
+- **HTML**: For the structure of the page.
+- **Tailwind CSS**: For styling and layout.
 
 ## How to Use
 1. Clone the repository: `https://github.com/MUMEi-28/tailwind-pricing-cards.git`
